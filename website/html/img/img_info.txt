@@ -1,0 +1,3 @@
+Resolutions:
+img/            150x150
+img/hires       300x300
